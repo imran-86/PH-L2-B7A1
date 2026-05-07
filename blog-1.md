@@ -24,7 +24,7 @@ str.toUpperCase(); // Works fine
 
 Here :
 
-<T> is a type placeholder. When we call the function,TypeScript figures out what T is automatically.
+  <T> is a type placeholder. When we call the function,TypeScript figures out what T is automatically.
 
                                          Conclusion  
                                       
