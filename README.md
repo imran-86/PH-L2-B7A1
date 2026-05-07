@@ -1,0 +1,4 @@
+                                              TypeScript Practice — Problems & Blogs
+This repository contains 7 TypeScript coding problems and 2 blog posts written while learning TypeScript for backend development.
+The problems cover core TypeScript concepts step by step. We start with simple array operations like filtering even numbers and finding array intersections. Then we move into string manipulation, union types, and type guards. We also practice Generics by building a reusable getProperty function that works safely with any object. Interfaces and the spread operator are used to add new properties to objects cleanly. Finally, we explore Object-Oriented Programming by building a Person and Student class using inheritance.
+The two blog posts explain Generics and the four pillars of OOP — Encapsulation, Inheritance, Abstraction, and Polymorphism — with simple examples and clear explanations that any beginner can follow.
