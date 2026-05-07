@@ -1,8 +1,12 @@
-                                  Introduction  
+                                         Title  
+
+                    Generics in TypeScript : Write Once, Use Everywhere
+                                  
+                                       Introduction  
 
 Imagine you write the same function three times. Once for numbers, once for strings, once for objects. That is a lot of repeated code.Generics solve this problem. With Generics, you write a function once and it works with any type , while staying fully type-safe.
 
-                           The Problem Without Generics  
+                                 The Problem Without Generics    
 
  Using `any` : there is no type safety
 function getFirst(arr: any[]): any {
@@ -30,8 +34,8 @@ Here :
                                       
 Generics are one of the most powerful features in TypeScript. They ensures:
 
- => Write reusable functions, classes, and interfaces
- => Keep full type safety — no more any
- => Catch bugs at compile time, not runtime
+ => Write reusable functions, classes, and interfaces  
+ => Keep full type safety — no more any  
+ => Catch bugs at compile time, not runtime  
 
 As a backend engineer, Generics will save us from writing the same code over and over.
